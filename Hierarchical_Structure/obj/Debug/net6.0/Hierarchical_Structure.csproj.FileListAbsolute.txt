@@ -1,0 +1,15 @@
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\Hierarchical_Structure.csproj.AssemblyReference.cache
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\Hierarchical_Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\Hierarchical_Structure.AssemblyInfoInputs.cache
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\Hierarchical_Structure.AssemblyInfo.cs
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\Hierarchical_Structure.csproj.CoreCompileInputs.cache
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\bin\Debug\net6.0\Hierarchical_Structure.exe
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\bin\Debug\net6.0\Hierarchical_Structure.deps.json
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\bin\Debug\net6.0\Hierarchical_Structure.runtimeconfig.json
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\bin\Debug\net6.0\Hierarchical_Structure.dll
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\bin\Debug\net6.0\Hierarchical_Structure.pdb
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\Hierarchical_Structure.dll
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\refint\Hierarchical_Structure.dll
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\Hierarchical_Structure.pdb
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\Hierarchical_Structure.genruntimeconfig.cache
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Hierarchical_Structure\obj\Debug\net6.0\ref\Hierarchical_Structure.dll

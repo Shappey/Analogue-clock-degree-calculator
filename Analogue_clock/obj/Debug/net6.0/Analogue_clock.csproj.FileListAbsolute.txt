@@ -1,0 +1,15 @@
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\bin\Debug\net6.0\Analogue_clock.exe
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\bin\Debug\net6.0\Analogue_clock.deps.json
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\bin\Debug\net6.0\Analogue_clock.runtimeconfig.json
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\bin\Debug\net6.0\Analogue_clock.dll
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\bin\Debug\net6.0\Analogue_clock.pdb
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\Analogue_clock.csproj.AssemblyReference.cache
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\Analogue_clock.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\Analogue_clock.AssemblyInfoInputs.cache
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\Analogue_clock.AssemblyInfo.cs
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\Analogue_clock.csproj.CoreCompileInputs.cache
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\Analogue_clock.dll
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\refint\Analogue_clock.dll
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\Analogue_clock.pdb
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\Analogue_clock.genruntimeconfig.cache
+E:\Programming\2023\ReizTech Homework\HomeworkAssignment\Analogue_clock\obj\Debug\net6.0\ref\Analogue_clock.dll
